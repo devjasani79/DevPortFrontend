@@ -1,4 +1,4 @@
-import HowItWorksSection from "../components/Services/HowItWorks/HowItWorksSection";
+import HowItWorksSection from "../components/Services/HowItWorks/howItWorksSection";
 import PricingSection from "../components/Services/Pricing/PricingSection";
 import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
