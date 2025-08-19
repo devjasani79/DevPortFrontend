@@ -1,7 +1,7 @@
 // src/pages/AboutUs.jsx
 "use client";
 
-import Navbar from "../components/layout/navbar";
+import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 import FAQ from "../components/landing/FAQ";
 import heroBanner from "../assets/hero/herobanner.jpg";

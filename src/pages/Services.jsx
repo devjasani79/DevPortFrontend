@@ -1,6 +1,6 @@
 import HowItWorksSection from "../components/Services/HowItWorks/howitworkssection";
 import PricingSection from "../components/Services/Pricing/PricingSection";
-import Navbar from "../components/layout/navbar";
+import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 import FAQ from "../components/landing/FAQ";
 export default function Services() {
