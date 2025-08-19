@@ -1,0 +1,32 @@
+/* Tailwind base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Root design tokens */
+:root {
+  --color-primary: #4f46e5; /* Indigo 600 */
+  --color-secondary: #06b6d4; /* Cyan 500 */
+  --color-accent: #f59e0b; /* Amber */
+  --color-success: #22c55e;
+  --color-danger: #ef4444;
+
+  --color-bg: #ffffff;
+  --color-text: #111827;
+}
+
+.dark {
+  --color-bg: #0f172a;
+  --color-text: #f8fafc;
+}
+
+/* Utility shortcuts */
+.text-primary {
+  color: var(--color-primary);
+}
+.bg-primary {
+  background-color: var(--color-primary);
+}
+.border-primary {
+  border-color: var(--color-primary);
+}
